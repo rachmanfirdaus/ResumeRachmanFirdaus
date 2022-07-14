@@ -5286,6 +5286,7 @@ a.credit {
   padding-bottom: 0; }
 
 .videoprofil{
+  margin: 3% ; 
   display: flex;
   justify-content: center;
   align-items: center;
